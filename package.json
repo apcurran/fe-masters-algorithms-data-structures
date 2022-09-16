@@ -1,0 +1,14 @@
+{
+  "name": "fe-masters",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "lint": "npx eslint ."
+  },
+  "author": "Alex Curran",
+  "license": "ISC",
+  "devDependencies": {
+    "eslint": "^8.23.1"
+  }
+}
